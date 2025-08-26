@@ -1,0 +1,13 @@
+# Copy this content to a file named .env in the Backend directory
+
+# Database Configuration
+DB_CONNECT=mongodb://localhost:27017/uber-video
+
+# JWT Configuration
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+
+# Google Maps API
+GOOGLE_MAPS_API=your-google-maps-api-key-here
+
+# Server Configuration
+PORT=3000 
